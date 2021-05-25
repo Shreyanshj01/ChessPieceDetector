@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'knight'
+}
+
+item {
+  id: 2
+  name: 'pawn'
+}
+
+item {
+  id: 3
+  name: 'king'
+}
+
+item {
+  id: 4
+  name: 'queen'
+}
+
+item {
+  id: 5
+  name: 'rook'
+}
+
+item {
+  id: 6
+  name: 'bishop'
+}
